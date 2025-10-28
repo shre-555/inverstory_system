@@ -1,0 +1,28 @@
+2025-10-28 04:23:24,748 - INFO - Added 10 of apple
+2025-10-28 04:23:24,748 - INFO - Added 2 of banana
+2025-10-28 04:23:24,748 - INFO - Added 0 of grape
+2025-10-28 04:23:24,748 - INFO - Decreased 'apple' by 3 units.
+2025-10-28 04:23:24,748 - WARNING - Attempted to remove non-existent item 'orange'.
+2025-10-28 04:23:24,749 - INFO - Items below threshold: ['banana', 'grape']
+2025-10-28 04:23:24,749 - INFO - Inventory data saved to inventory.json
+2025-10-28 04:23:24,749 - INFO - Inventory data loaded from inventory.json
+2025-10-28 04:23:24,749 - INFO - Printing inventory data.
+2025-10-28 04:23:24,749 - INFO - Program executed successfully.
+2025-10-28 04:24:38,745 - INFO - Added 10 of apple
+2025-10-28 04:24:38,745 - INFO - Added 2 of banana
+2025-10-28 04:24:38,745 - WARNING - Invalid input types for item='123', qty='ten'
+2025-10-28 04:24:38,746 - WARNING - Tried to remove non-existent item 'orange'
+2025-10-28 04:24:38,746 - INFO - Inventory data saved successfully.
+2025-10-28 04:24:38,746 - INFO - Inventory data loaded successfully.
+2025-10-28 04:24:38,746 - INFO - Printing current inventory.
+2025-10-28 04:24:38,746 - INFO - Safe eval result: {'message': 'eval removed'}
+2025-10-28 04:27:46,534 - INFO - Added 10 of apple
+2025-10-28 04:27:46,534 - INFO - Added 2 of banana
+2025-10-28 04:27:46,534 - INFO - Added 0 of grape
+2025-10-28 04:27:46,534 - INFO - Decreased 'apple' by 3 units.
+2025-10-28 04:27:46,534 - WARNING - Attempted to remove non-existent item 'orange'.
+2025-10-28 04:27:46,534 - INFO - Items below threshold: ['banana', 'grape']
+2025-10-28 04:27:46,535 - INFO - Inventory data saved to inventory.json
+2025-10-28 04:27:46,535 - INFO - Inventory data loaded from inventory.json
+2025-10-28 04:27:46,535 - INFO - Printing inventory data.
+2025-10-28 04:27:46,535 - INFO - Program executed successfully.
